@@ -1,0 +1,38 @@
+{
+    "haskell-cpython": {
+        "branch": "main",
+        "description": null,
+        "homepage": null,
+        "owner": "mxgr7",
+        "repo": "haskell-cpython",
+        "rev": "6dbe0274fec92f741ce144dc57a1d731ed7a354f",
+        "sha256": "0xzi8568k5nhw6q77fz5772mz7zrxc6836sywwfz10f4nphfzwb6",
+        "type": "tarball",
+        "url": "https://github.com/mxgr7/haskell-cpython/archive/6dbe0274fec92f741ce144dc57a1d731ed7a354f.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    },
+    "hoff": {
+        "branch": "main",
+        "description": "Haskell dataframes",
+        "homepage": null,
+        "owner": "mxgr7",
+        "repo": "hoff",
+        "rev": "245e01cf1a094e34be90ca1bb1408968af9bddd9",
+        "sha256": "143cn68jr2n16a6caqzqfb47hvj8p02ycjabvbay3snxgf4d4dcl",
+        "type": "tarball",
+        "url": "https://github.com/mxgr7/hoff/archive/245e01cf1a094e34be90ca1bb1408968af9bddd9.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    },
+    "yahp": {
+        "branch": "main",
+        "description": "yet another Haskell prelude",
+        "homepage": null,
+        "owner": "mxgr7",
+        "repo": "yahp",
+        "rev": "aae34260a5f118b1afeb41b4dc2dd87846c1d7ef",
+        "sha256": "0hc5xbfzn3k02qpifz7p87knxn1l5ydw5hml1r6q66x0wzmixn3r",
+        "type": "tarball",
+        "url": "https://github.com/mxgr7/yahp/archive/aae34260a5f118b1afeb41b4dc2dd87846c1d7ef.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    }
+}

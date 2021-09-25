@@ -1,0 +1,26 @@
+{
+    "hoff": {
+        "branch": "main",
+        "description": "Haskell dataframes",
+        "homepage": null,
+        "owner": "mxgr7",
+        "repo": "hoff",
+        "rev": "1770f01cee9bc56890c37e1258aac3417ab28af4",
+        "sha256": "07ymwwnlscgbmwqd55s8cl77j0phhsldfmdf8536chj1x08hp4cs",
+        "type": "tarball",
+        "url": "https://github.com/mxgr7/hoff/archive/1770f01cee9bc56890c37e1258aac3417ab28af4.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    },
+    "yahp": {
+        "branch": "main",
+        "description": "yet another Haskell prelude",
+        "homepage": null,
+        "owner": "mxgr7",
+        "repo": "yahp",
+        "rev": "d205d59dd460624254e06018682bb597b32467f4",
+        "sha256": "0b4kgwff4pbkq4l86ryjlly2m26xib3w4l6pw2iax2yrqfa0crla",
+        "type": "tarball",
+        "url": "https://github.com/mxgr7/yahp/archive/d205d59dd460624254e06018682bb597b32467f4.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    }
+}
